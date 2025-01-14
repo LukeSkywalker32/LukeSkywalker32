@@ -11,7 +11,7 @@ Sou um **desenvolvedor front-end** em transição de carreira, atualmente me apr
 - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 - ![Oracle](https://img.shields.io/badge/PL/SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-<img align="right" alt="Coding" width="400" src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fmedia1.tenor.com%2Fimages%2F0c34272909ee2a4db5606a014082312b%2Ftenor.gif%3Fitemid%3D15828752">
+<img align="left" alt="Coding" width="400" src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fmedia1.tenor.com%2Fimages%2F0c34272909ee2a4db5606a014082312b%2Ftenor.gif%3Fitemid%3D15828752">
 
 ![](https://github-readme-stats.vercel.app/api?username=LukeSkywalker32&show_icons=true)
 
