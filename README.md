@@ -1,62 +1,95 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Olá,%20sou%20o%20Luke!&fontSize=50&animation=fadeIn" align="center" style="width: 100%;" />
+
+# Olá, sou o Luke! 👋
+
+**Técnico de Infraestrutura · Desenvolvedor Fullstack · Estudante de ADS**
+
+Trabalho de dia garantindo que os sistemas rodem.
+De noite, construo os sistemas que vão rodar. 🚀
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luke-skywalker-ramirez)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LukeSkywalker32)
+
 </div>
 
-<br/>
+---
+
+## 🧑‍💻 Sobre mim
+
+Sou desenvolvedor fullstack apaixonado por resolver problemas reais com código limpo e bem estruturado. Atuo como técnico de infraestrutura na **CS Compusoftware** e estudo **Análise e Desenvolvimento de Sistemas** com foco prático pelo **DevClub**.
+
+Minha rotina une os dois mundos: entendo a infraestrutura por baixo e construo as aplicações por cima.
+
+- 📍 Guararapes, São Paulo — Brasil
+- 🎓 Cursando ADS · DevClub (React, Node.js, TypeScript, Databases)
+- 🔨 Construindo o **cs_agendamento** — meu projeto principal atual
+- 🌱 Sempre aprendendo arquitetura de software e boas práticas
+
+---
+
+## 🚀 Projeto em Destaque
+
+### [`cs_agendamento`](https://github.com/LukeSkywalker32/cs_agendamento_api) — Sistema de Agendamento Fullstack
+
+> Desenvolvido para a **CS Compusoftware**, o sistema integra transportadoras e empresas de insumos em um fluxo de agendamento, check-in e controle de slots — do zero ao deploy.
+
+```
+🗂️  Backend concluído  →  Express · TypeScript · MongoDB · Mongoose · Zod · JWT
+🎨  Frontend em dev    →  React · TypeScript · Vite · Biome
+✅  ~51% de cobertura  →  Vitest + Supertest
+```
+
+**4 perfis de usuário integrados:**
+
+| Perfil | Função |
+|---|---|
+| 🏢 Empresa de Insumos | Gerencia slots e check-ins |
+| 🚛 Transportadora | Agendamento de entregas |
+| 🧑‍✈️ Motorista | Check-in por CPF, sem login |
+| 🛡️ Admin | Dashboard com visão completa |
+
+---
+
+## 🛠️ Tecnologias
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
+
+**Ferramentas**
+
+![Biome](https://img.shields.io/badge/Biome-60A5FA?style=for-the-badge&logo=biome&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/luke-skywalker-ramirez" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+
+![Luke's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LukeSkywalker32&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LukeSkywalker32&layout=compact&theme=tokyonight&hide_border=true)
+
 </div>
 
-<br/>
-
-## 👨‍💻 Sobre Mim
-
-Sou um desenvolvedor apaixonado por construir soluções robustas e escaláveis, com foco especial no ecossistema **Back-end**. Minha rotina envolve transformar regras de negócio complexas em código limpo e eficiente, utilizando tecnologias modernas como **Node.js** e **TypeScript**.
-
-- 🔭 Atualmente focado em arquitetura de microsserviços e APIs RESTful.
-- 🌱 Em constante aprendizado sobre boas práticas de engenharia de software e padrões de projeto.
-- 🤔 Aberto a colaborações em projetos de código aberto.
-
-<br/>
-
-## 🛠️ Tecnologias & Ferramentas
-
-Aqui estão algumas das tecnologias com as quais trabalho diariamente:
-
-### ⚙️ Core & Back-end
-<div align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-</div>
-
-### 🧰 DevTools
-<div align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-</div>
-
-<br/>
-
-## 📊 Estatísticas do GitHub
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub do Luke" style="width: 48%; margin-right: 2%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight&langs_count=7" alt="Linguagens mais usadas pelo Luke" style="width: 48%;" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_AQUI&theme=tokyonight" alt="Série de Commits do Luke" style="width: 100%; margin-top: 10px;" />
-</div>
+*"Código bom não é o que funciona. É o que qualquer um consegue entender amanhã."*
 
-<br/>
-
-<hr/>
-<div align="center">
-  <p>Vamos nos conectar! Entre em contato pelo <a href="https://www.linkedin.com/in/luke-skywalker-ramirez">LinkedIn</a>.</p>
 </div>
