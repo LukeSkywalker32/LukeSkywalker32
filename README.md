@@ -103,7 +103,7 @@ Cidadãos registram ocorrências na cidade (Roubo, Furto, Atividade Suspeita, et
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=LukeSkywalker32&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=LukeSkywalker32&theme=highcontrast&hide_border=true&locale=pt_BR&short_numbers=true&mode=weekly)](https://git.io/streak-stats)
 
 </div>
 
