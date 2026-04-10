@@ -22,13 +22,36 @@ Minha rotina une os dois mundos: entendo a infraestrutura por baixo e construo a
 
 - 📍 Guararapes, São Paulo — Brasil
 - 🎓 Cursando ADS · DevClub (React, Node.js, TypeScript, Databases)
+- <img width="18" height="18" alt="image" src="https://github.com/user-attachments/assets/bbc53b85-d4dd-41c1-baac-5dd7126bbb70"/>  Projeto ObservaCidade Concluido
 - 🔨 Construindo o **SAT - Agendamento** — meu projeto principal atual
 - 🌱 Sempre aprendendo arquitetura de software e boas práticas
 
 ---
 
-## 🚀 Projeto em Destaque
+## ✅ Projeto Concluído — ObservaCidade
+ 
+> Plataforma de **reporte de problemas urbanos** com geolocalização em tempo real — meu primeiro projeto fullstack entregue do zero.
+ 
+Cidadãos registram ocorrências na cidade (Roubo, Furto, Atividade Suspeita, etc.) diretamente no mapa. A posto policial visualiza e gerencia os chamados via tela de mapas.
+ 
+```
+🗺️  Frontend  →  React · TypeScript · Vite · API GoogleMaps (mapas interativos)
+⚙️  Backend   →  Node.js · Express · TypeScript · MongoDB · Mongoose
+📱  Mobile    →  Capacitor (iOS & Android)
+🔐  Auth      →  JWT · Nodemailer
+```
+ 
+**Destaques técnicos:**
+- Mapa interativo com marcadores de ocorrências em tempo real
+- Autenticação completa com JWT e verificação por e-mail
+- App mobile com geolocalização via Capacitor
+- Painel administrativo para gestão de chamados
+ 
+[![ObservaCidade - FrontEnd](https://img.shields.io/badge/Ver%20Repositório-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LukeSkywalker32/ProjetoObservaCidade-FrontEnd)
+ 
+---
 
+## 🚀 Projeto em Destaque
 ### [`SAT_Agendamento`](https://github.com/LukeSkywalker32/BackEnd_Agendamento) — Sistema de Agendamento Fullstack
 
 > Desenvolvimento pessoal, o sistema integrara transportadoras e empresas de insumos em um fluxo de agendamento, check-in e controle de slots — do zero ao deploy.
@@ -80,9 +103,7 @@ Minha rotina une os dois mundos: entendo a infraestrutura por baixo e construo a
 
 <div align="center">
 
-![Luke's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LukeSkywalker32&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LukeSkywalker32&layout=compact&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=LukeSkywalker32&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
