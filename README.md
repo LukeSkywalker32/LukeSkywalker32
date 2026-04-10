@@ -22,16 +22,16 @@ Minha rotina une os dois mundos: entendo a infraestrutura por baixo e construo a
 
 - 📍 Guararapes, São Paulo — Brasil
 - 🎓 Cursando ADS · DevClub (React, Node.js, TypeScript, Databases)
-- 🔨 Construindo o **cs_agendamento** — meu projeto principal atual
+- 🔨 Construindo o **SAT - Agendamento** — meu projeto principal atual
 - 🌱 Sempre aprendendo arquitetura de software e boas práticas
 
 ---
 
 ## 🚀 Projeto em Destaque
 
-### [`cs_agendamento`](https://github.com/LukeSkywalker32/cs_agendamento_api) — Sistema de Agendamento Fullstack
+### [`SAT_Agendamento`](https://github.com/LukeSkywalker32/BackEnd_Agendamento) — Sistema de Agendamento Fullstack
 
-> Desenvolvido para a **CS Compusoftware**, o sistema integra transportadoras e empresas de insumos em um fluxo de agendamento, check-in e controle de slots — do zero ao deploy.
+> Desenvolvimento pessoal, o sistema integrara transportadoras e empresas de insumos em um fluxo de agendamento, check-in e controle de slots — do zero ao deploy.
 
 ```
 🗂️  Backend concluído  →  Express · TypeScript · MongoDB · Mongoose · Zod · JWT
